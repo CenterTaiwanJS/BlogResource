@@ -69,3 +69,23 @@ theme: pln
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+menu:
+  main: /
+  archives: /archives
+
+logo: https://t.kfs.io/upload_images/50029/f2e-logo_promote.jpg
+
+more:
+  link title: http://taichung-frontend.kktix.cc/
+  rss: /rss2.xml
+
+about:
+  title: 台中前端
+  link: http://taichung-frontend.kktix.cc/
+
+disqus_shortname: 台中前端
+
+excerpt_num: 100
+
+footer_info: 台中前端
