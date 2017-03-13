@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 台中前端討論聚落
+subtitle: 前端技術交流區
 description:
 author: CenterTaiwanFront-end
-language:
-timezone:
+language: zh-tw
+timezone: +08:00
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
