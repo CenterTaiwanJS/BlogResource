@@ -1,7 +1,7 @@
 # BlogResource
 Blog source code
 
-## Install 
+## Install (Window 使用者請看最下方連結)
 
 1. Install Hexo
 
@@ -76,3 +76,7 @@ git push origin master
   9 Merge 完成
 
   ![step10](./images/step10.png)
+
+
+  ## [Window 安裝 Hexo 部落格教學](http://www.bravo-kernel.com/2015/10/setting-up-hexo-on-windows/)
+  Tomas 提供
